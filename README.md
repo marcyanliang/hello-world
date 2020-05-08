@@ -1,4 +1,4 @@
 # hello-world
-my first Repo
+my first Repository
 here it is
 Hello Marc!
